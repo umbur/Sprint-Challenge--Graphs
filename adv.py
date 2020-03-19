@@ -14,6 +14,7 @@ world = World()
 # map_file = "maps/test_cross.txt"
 # map_file = "maps/test_loop.txt"
 # map_file = "maps/test_loop_fork.txt"
+# initial commit
 map_file = "maps/main_maze.txt"
 
 # Loads the map into a dictionary
